@@ -1,0 +1,11 @@
+.row{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #6c9dd3;
+}
+footer{
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 2px -2px 5px beige;
+}

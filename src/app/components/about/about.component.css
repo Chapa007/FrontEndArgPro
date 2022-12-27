@@ -1,0 +1,47 @@
+.row{
+    margin: -8px;
+    font-family: 'Open Sans', sans-serif;
+}
+div{
+    background-color: #6c9dd3;
+    text-align: center;
+    
+}
+@media(min-width: 576px){
+    #fotoperfil{
+        position:absolute;
+        width: 200px;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px rgb(126, 126, 126);
+        left: 3%;
+        top: 650px;
+        height: 200px;
+
+    }
+}
+@media(max-width: 575px){
+    #fotoperfil{
+        position:absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px rgb(126, 126, 126);
+        left: 35%;
+        top: 700px;
+        
+    }
+}
+
+
+
+#nombre{
+    font-weight: bold;
+    margin-top: 2%;
+    margin-right: 65%;
+}
+
+
+#titulo{
+    font-weight: bold;
+    margin-top: 2%;
+    margin-right: 65%
+}

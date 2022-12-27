@@ -1,0 +1,18 @@
+.row{
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+    background-color: #6c9dd3;
+}
+
+.container{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-proyecto{
+    height: 600px;
+    width: 1200px;
+}
