@@ -3,9 +3,20 @@
     font-family: 'Open Sans', sans-serif;
     }
     div{
-        background: #6c9dd3;
+        background: #1d262e;
        
     }
     h1,h2{
         display: inline;
+        margin: 0.5em;
+        color:antiquewhite;
     }
+
+  .mumu{
+    height: 200px;
+    margin: 1em;
+  }
+
+  td{
+    color: antiquewhite ;
+  }

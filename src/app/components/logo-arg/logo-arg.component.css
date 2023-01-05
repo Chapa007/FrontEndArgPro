@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family: 'Open Sans', sans-serif;
 }
 .redes{
     margin-right: 0.5em;
@@ -16,6 +17,12 @@ img{
 }
 .redes img{
     margin: .3em;
+    height: 32px;
+    width: 32px;
+}
+
+button{
+    height: 40px;
 }
 
 

@@ -2,17 +2,27 @@
     margin: -8px;
     font-family: 'Open Sans', sans-serif;
 }
+
+ .texto{
+    color: aliceblue;
+ }
 div{
-    background-color: #6c9dd3;
+    background-color: #36495c;
     text-align: center;
-    
 }
+p{
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+
 @media(min-width: 576px){
     #fotoperfil{
         position:absolute;
         width: 200px;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px rgb(126, 126, 126);
+        box-shadow: 5px 5px 5px rgb(0, 0, 0);
         left: 3%;
         top: 650px;
         height: 200px;
