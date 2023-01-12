@@ -59,6 +59,7 @@ import { EditAboutComponent } from './components/about/edit-about.component';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
+    FormsModule,
     NgCircleProgressModule.forRoot({}),
     HttpClientModule,  
   
