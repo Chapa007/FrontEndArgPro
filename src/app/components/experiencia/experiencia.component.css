@@ -3,9 +3,19 @@
     font-family: 'Open Sans', sans-serif;
     }
     div{
-        background: #6c9dd3;
+        background: #ffffff;
        
     }
-    h1,h2{
+    h1{
         display: inline;
+        color: #000000;
+        padding-top: 20px;
+        margin: 0.5em;
     }
+
+    .table{
+        color: rgb(0, 0, 0);
+    }
+
+    
+

@@ -1,11 +1,12 @@
 .row{
     font-family: 'Open Sans', sans-serif;
-    background-color: #6c9dd3;
+    background-color: #ffffff;
 }
 footer{
     font-size: 15px;
     display: flex;
     flex-direction: column;
     text-align: center;
-    box-shadow: 2px -2px 5px beige;
+    box-shadow: 2px -2px 5px rgb(65, 112, 173);
+    color: rgb(0, 0, 0);
 }

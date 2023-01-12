@@ -1,9 +1,18 @@
 div{
-    background-color: rgb(21, 140, 238);
-    
+    background-color: rgb(17, 0, 114);
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 app-redes{
     float: right;
     margin-top: 25px;
 }
+
+app-banner{
+    box-shadow: 2px -2px 5px rgb(217, 116, 44);
+}
+
+/* rgb(21, 140, 238)*/
