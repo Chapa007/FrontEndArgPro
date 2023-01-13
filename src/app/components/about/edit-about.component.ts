@@ -43,10 +43,5 @@ export class EditAboutComponent implements OnInit {
       )
     }
 
-    // uploadImage($event:any){
-    //   const id = this.activatedRouter.snapshot.params['id'];
-    //   const name = 'perfil' + id;
-    //   this.imageServise.uploadImage($event, name)
-    // }
 
 }
